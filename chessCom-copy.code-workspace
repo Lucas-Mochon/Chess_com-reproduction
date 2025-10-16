@@ -1,9 +1,0 @@
-{
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {},
-	"launch": ".vscode/launch.json"
-}
